@@ -1,0 +1,4 @@
+name: allTNTsreBanned
+version: '${project.version}'
+main: org.fazlabs.alltntsrebanned.AllTNTsreBanned
+api-version: '1.16'
